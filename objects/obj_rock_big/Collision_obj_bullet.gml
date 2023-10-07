@@ -1,0 +1,3 @@
+/// @description
+
+take_damage();
